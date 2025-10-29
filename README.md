@@ -1,2 +1,2 @@
 # OneShopAyiti
-OneShopAyiti,pi rapid,pi senp,pi efikas
+OneShopAyiti,pi rapid ,pi senp,pi efikas
